@@ -1,6 +1,7 @@
 #! /bin/bash
 # cars.sh
 # Catherine McKay.
+chmod 755
 INPUT="0"
 while [ "$INPUT" -ne "3" ]
 do
